@@ -1,6 +1,6 @@
 # Breadog for VS Code
 
-A warm, light theme for [VS Code](https://code.visualstudio.com), ported from the Breadog terminal color scheme.
+A warm, light theme for [VS Code](https://marketplace.visualstudio.com/items?itemName=RibbtDev.breadog-theme), ported from the Breadog terminal color scheme.
 
 ![Breadog theme in VS Code](images/screenshot.png)
 
