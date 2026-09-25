@@ -2,7 +2,7 @@
   "name": "breadog-theme",
   "displayName": "Breadog Theme",
   "description": "A warm, light theme: soft beige background, dark brown text. Ported from the Breadog terminal color scheme.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "RibbtDev",
   "author": "Rohit Kumar",
   "license": "MIT",
