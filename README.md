@@ -6,7 +6,7 @@ A warm, light theme for [VS Code](https://code.visualstudio.com), ported from th
 
 Breadog pairs a soft beige background (`#f1ebe6`) with dark brown text (`#362c24`). The built-in terminal uses the original 16 Breadog colors, so it matches Ghostty, iTerm2, and other terminals that ship Breadog.
 
-Also available for [Zed](https://github.com/RibbtDev/breadog-zed).
+Also available for [Zed](https://zed.dev/extensions/breadog-theme).
 
 ## Install
 
