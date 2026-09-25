@@ -22,8 +22,6 @@ Or set it in `settings.json`:
 }
 ```
 
-Works in Cursor, VSCodium, and Windsurf too, through [Open VSX](https://open-vsx.org).
-
 ## Credits
 
 The Breadog palette comes from [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) ([#559](https://github.com/mbadolato/iTerm2-Color-Schemes/pull/559)), released under the MIT License.
